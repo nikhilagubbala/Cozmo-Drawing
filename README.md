@@ -11,6 +11,6 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
+## My project
 
-a brief description of your project goes here
+We will program Cozmo to use a pen to draw a picture. We plan to put a pen in Cozmo's hand and have it draw a city sky outline.
